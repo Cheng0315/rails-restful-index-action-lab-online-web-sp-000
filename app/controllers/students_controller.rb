@@ -1,3 +1,4 @@
-class ApplicationController < ApplicationController
+class StudentsController < ApplicationController
 
+  def 
 end
